@@ -1,11 +1,25 @@
-# {Chapter} - Update this file and the code of conduct!
+# Papers We Love - Manipal Institute of Technology, Bengaluru Chapter
 
-This is the repository for the {Chapter} chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/nashville/blob/master/code-of-conduct.md).
+This is the repository for the Papers We Love Manipal Institute of Technology (MIT), Bengaluru chapter. As a local chapter, we adhere to the Papers We Love [Code of Conduct](https://github.com/papers-we-love/bengaluru/blob/main/code-of-conduct.md).
 
 ### Information
 
-{Chapter information: who, what, where, when, why}
+Welcome to the Papers We Love MIT, Bengaluru chapter! We are a community of students and professors from various branches at Manipal Institute of Technology, Bengaluru, who share a passion for research and love exploring and discussing fascinating research papers.
+
+**Chapter Details:**
+- **Location:** Manipal Institute of Technology, Bengaluru
+- **Starting Date:** Jan'24
+- **Goals:** To create a collaborative environment for exploring and appreciating research papers across disciplines.
 
 ### Contact
 
-{Names and contact information (twitter, email, etc) of Chapter organizers}
+For any inquiries or to get involved, feel free to reach out to our chapter organizers:
+
+- **Atharva Sajanikar**
+  - Email: atharva.mitblr2022@learner.manipal.edu  
+  - LinkedIn: https://www.linkedin.com/in/atharva-sajanikar
+
+
+Join us in our mission to promote discussions and learning through the joy of exploring research papers!
+
+
