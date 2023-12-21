@@ -9,7 +9,7 @@ Welcome to the Papers We Love MIT, Bengaluru chapter! We are a community of stud
 **Chapter Details:**
 - **Location:** Manipal Institute of Technology, Bengaluru
 - **Starting Date:** Jan'24
-- **Goals:** To create a collaborative environment for exploring and appreciating research papers across disciplines.
+- **Goals:** To create a collaborative environment for exploring and appreciating research papers across various disciplines and to promote the culture of doing and exploring research among students.
 
 ### Contact
 
