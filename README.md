@@ -19,6 +19,13 @@ For any inquiries or to get involved, feel free to reach out to our chapter orga
   - Email: atharva.mitblr2022@learner.manipal.edu  
   - LinkedIn: https://www.linkedin.com/in/atharva-sajanikar
 
+- **Dr. Anand Pal**
+  - Email: anand.pal@manipal.edu/ sandhu.anand@hotmail.com  
+  - LinkedIn: https://www.linkedin.com/in/pal-anand/
+
+- **Dr. Jyoti Shetty**
+  - Email: shetty.jyoti@manipal.edu 
+  - LinkedIn: https://www.linkedin.com/in/dr-jyoti-shetty
 
 Join us in our mission to promote discussions and learning through the joy of exploring research papers!
 
