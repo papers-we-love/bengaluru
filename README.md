@@ -18,6 +18,11 @@ For any inquiries or to get involved, feel free to reach out to our chapter orga
 - **Atharva Sajanikar**
   - Email: atharva.mitblr2022@learner.manipal.edu  
   - LinkedIn: https://www.linkedin.com/in/atharva-sajanikar
+  - 
+- **Debasish Tripathy**
+  - Email: debasish.mitblr2022@learner.manipal.edu  
+  - LinkedIn: https://www.linkedin.com/in/debasish-tripathy-48441b1b5/
+
 
 - **Dr. Anand Pal**
   - Email: anand.pal@manipal.edu/ sandhu.anand@hotmail.com  
