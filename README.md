@@ -1,6 +1,6 @@
 # Papers We Love - Manipal Institute of Technology, Bengaluru Chapter
 
-This is the repository for the Papers We Love Manipal Institute of Technology (MIT), Bengaluru chapter. As a local chapter, we adhere to the Papers We Love [Code of Conduct](https://github.com/papers-we-love/bengaluru/blob/main/code-of-conduct.md).
+This is the repository for the Papers We Love Manipal Institute of Technology (MIT), Bengaluru chapter. As a local chapter, we adhere to the Papers We Love [Code of Conduct](https://github.com/papers-we-love/bengaluru/blob/master/code-of-conduct.md).
 
 ### Information
 
